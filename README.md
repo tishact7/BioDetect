@@ -5,7 +5,7 @@ BioDetect is a low-cost educational astrobiology kit that simulates life detecti
 
 ## Demo
 - [🎥 Video Demo](https://youtu.be/009lOeKOMVY)
-- [📑 Slides]((https://docs.google.com/presentation/d/10YCY2C9IKUyCh_bIivRoyMKDxe9pYOWPBcKbS7Ydqjc/edit?usp=drive_link))
+- [📑 Slides](https://docs.google.com/presentation/d/10YCY2C9IKUyCh_bIivRoyMKDxe9pYOWPBcKbS7Ydqjc/edit?usp=drive_link)
 - [📊 Simulated Data Graph]([figures/atp_response.png](https://drive.google.com/file/d/1OwjQ-f_zrR2PORKK3TNCIpa0qeimbvGP/view?usp=sharing))
 
 ## Repo Structure
